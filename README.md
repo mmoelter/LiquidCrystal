@@ -1,2 +1,2 @@
-# Phys133
-E&amp;M materials
+# Liquid Crystal
+Explore the energy for phi-4 or similar
